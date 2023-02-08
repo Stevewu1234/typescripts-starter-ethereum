@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "typescripts-starter-ethereum",
   "private": true,
   "scripts": {
     "commit": "git-cz"
